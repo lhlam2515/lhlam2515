@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam
 
-I'm a Computer Science student with a passion for Software Development and AI integration. I love creating smart, efficient systems that solve real-world challenges.
+I'm an Information Technology student passionate about Software Development and AI integration. I love creating smart, efficient systems that solve real-world challenges.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Second-year Computer Science undergraduate with a solid foundation in software engineering
+- 🎓 Second-year Information Technology undergraduate with a solid foundation in software engineering
 - 🤖 Enthusiastic about building intelligent, AI-powered applications
-- 💻 Experienced in full-stack development using React, Next.js, MongoDB (Mongoose), and SQL databases (Prisma)
+- 💻 Experienced in full-stack development using React, Next.js, MongoDB (Mongoose), and more...
 - 🤝 Excited to collaborate on meaningful software projects and contribute to innovative teams.
-
-
-
-
