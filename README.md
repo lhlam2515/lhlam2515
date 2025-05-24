@@ -24,8 +24,6 @@ The name **SoJDev** - derived from **SoJ** _/sɔːdʒ/_ - embodies my unwavering
 - 💻 Experienced in **full-stack development** using React, Next.js, MongoDB (Mongoose), and more.
 - 🤝 Always excited to **collaborate on meaningful software projects** and contribute to innovative teams.
 
----
-
 <!--
 ## 🌱 What I'm Currently Learning/Working On
 
