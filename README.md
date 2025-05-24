@@ -15,13 +15,28 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-The name **SoJDev** isn't just a handle; it's my personal philosophy for growth. It combines the idea of being a **'Sage'** – someone dedicated to mastering intricate technical landscapes – with the drive to **'Soar'** – leveraging that profound knowledge to build high-impact, pioneering software. For me, development is a journey of relentless learning and transformative creation.
-
----
+The name **SoJDev** - derived from **SoJ** _/sɔːdʒ/_ - embodies my unwavering philosophy for growth. It merges the concept of being a **'Sage'** _/seɪdʒ/_ – a master of complex technical landscapes – with the determination to **'Soar'** _/sɔːr/_ – harnessing that profound knowledge to craft high-impact, innovative software. I believe that development is a powerful journey of relentless learning and transformative creation.
 
 ## 🚀 About Me
 
-- 🎓 Second-year Information Technology undergraduate with a solid foundation in software engineering
-- 🤖 Enthusiastic about building intelligent, AI-powered applications
-- 💻 Experienced in full-stack development using React, Next.js, MongoDB (Mongoose), and more...
-- 🤝 Excited to collaborate on meaningful software projects and contribute to innovative teams.
+- 🎓 A **second-year Information Technology undergraduate** with a solid foundation in software engineering.
+- 🤖 Enthusiastic about building **intelligent, AI-powered applications**.
+- 💻 Experienced in **full-stack development** using React, Next.js, MongoDB (Mongoose), and more.
+- 🤝 Always excited to **collaborate on meaningful software projects** and contribute to innovative teams.
+
+---
+
+<!--
+## 🌱 What I'm Currently Learning/Working On
+
+- Actively exploring **[Specific Technology/Concept]** to deepen my understanding of **[Area of Interest]**.
+- Building **[Brief description of a current project]** to apply **[Specific Skill/Technology]**.
+
+---
+
+## 💡 Let's Connect!
+
+- 📫 You can reach me at **[Your Email Address]**
+- 🌐 Connect with me on [LinkedIn](Your_LinkedIn_Profile_URL)
+- 💼 Check out my portfolio: [Your Portfolio URL (if you have one)]
+-->
