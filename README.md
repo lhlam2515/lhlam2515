@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Hoang-Lam
+# 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-I'm an Information Technology student passionate about Software Development and AI integration. I love creating smart, efficient systems that solve real-world challenges.
+The name **SoJDev** isn't just a handle; it's my personal philosophy for growth. It combines the idea of being a **'Sage'** – someone dedicated to mastering intricate technical landscapes – with the drive to **'Soar'** – leveraging that profound knowledge to build high-impact, pioneering software. For me, development is a journey of relentless learning and transformative creation.
 
 ---
 
