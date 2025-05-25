@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-The name **SoJDev** - derived from **SoJ** _/sɔːdʒ/_ - embodies my unwavering philosophy for growth. It combines the idea of being a **'Sage'** _/seɪdʒ/_ – someone dedicated to mastering intricate technical landscapes – with the drive to **'Soar'** _/sɔːr/_ – leveraging that profound knowledge to build high-impact, pioneering software. For me, development is a journey of relentless learning and transformative creation.
+The name **SoJDev**, derived from **SoJ** _/sɔːdʒ/_, represents my commitment to growth. It blends the concept of being a **'Sage'** _/seɪdʒ/_ – someone dedicated to mastering complex technical fields – with the ambition to **'Soar'** _/sɔːr/_ – using that deep knowledge to create impactful, innovative software. For me, development is a journey of continuous learning and transformative creation.
 
 ## 🚀 About Me
 
