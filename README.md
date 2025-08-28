@@ -19,7 +19,7 @@ The name **SoJDev**, derived from **SoJ** _/sɔːdʒ/_, represents my commitment
 
 ## 🚀 About Me
 
-- 🎓 A **second-year Information Technology undergraduate** with a solid foundation in software engineering.
+- 🎓 A **third-year Information Technology undergraduate** with a solid foundation in software engineering.
 - 🤖 Enthusiastic about building **intelligent, AI-powered applications**.
 - 💻 Experienced in **full-stack development** using React, Next.js, MongoDB (Mongoose), and more.
 - 🤝 Always excited to **collaborate on meaningful software projects** and contribute to innovative teams.
