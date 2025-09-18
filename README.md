@@ -15,21 +15,26 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-The name **SoJDev**, derived from **SoJ** _/sɔːdʒ/_, represents my commitment to growth. It blends the concept of being a **'Sage'** _/seɪdʒ/_ – someone dedicated to mastering complex technical fields – with the ambition to **'Soar'** _/sɔːr/_ – using that deep knowledge to create impactful, innovative software. For me, development is a journey of continuous learning and transformative creation.
+I chose the name SoJDev, derived from SoJ _/sɔːdʒ/_, as a daily reminder to myself. I want to be a “Sage” – someone who persistently learns and explores technology – and I also want to “Soar” – to rise higher by turning knowledge into meaningful software that touches people’s lives. For me, development is not just a job, but a journey of growing alongside knowledge and passion.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 A **third-year Information Technology undergraduate** with a solid foundation in software engineering.
-- 🤖 Enthusiastic about building **intelligent, AI-powered applications**.
-- 💻 Experienced in **full-stack development** using React, Next.js, MongoDB (Mongoose), and more.
-- 🤝 Always excited to **collaborate on meaningful software projects** and contribute to innovative teams.
+* 🎓 **Third-year IT undergraduate** with a strong foundation in software engineering.
+* 🤖 Passionate about building **AI-powered and intelligent applications**.
+* 💻 Skilled in **full-stack development** (React, Next.js, MongoDB, and more).
+* 🤝 Open to **collaborating on impactful projects** and contributing to innovative teams.
+* 🌱 **Working towards becoming a versatile full-stack developer and future tech leader.**
 
-<!--
+---
+
 ## 🌱 What I'm Currently Learning/Working On
 
-- Actively exploring **[Specific Technology/Concept]** to deepen my understanding of **[Area of Interest]**.
-- Building **[Brief description of a current project]** to apply **[Specific Skill/Technology]**.
+* Actively studying **Generative AI and LLMs**, with a research-driven interest in **intelligent multi-agent architectures**.
+* Developing knowledge progressively to contribute to **future academic and applied research in multi-agent systems**.
 
+<!--
 ---
 
 ## 💡 Let's Connect!
