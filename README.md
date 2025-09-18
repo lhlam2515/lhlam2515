@@ -20,9 +20,8 @@ I chose the name SoJDev, derived from SoJ _/sɔːdʒ/_, as a daily reminder to m
 
 ## 🚀 About Me
 
-* 🎓 **Third-year IT undergraduate** with a strong foundation in software engineering.
-* 🤖 Passionate about building **AI-powered and intelligent applications**.
 * 💻 Skilled in **full-stack development** (React, Next.js, MongoDB, and more).
+* 🤖 Passionate about building **AI-powered and intelligent applications**.
 * 🤝 Open to **collaborating on impactful projects** and contributing to innovative teams.
 * 🌱 **Working towards becoming a versatile full-stack developer and future tech leader.**
 
