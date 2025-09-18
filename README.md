@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I chose the name SoJDev, derived from SoJ _/sɔːdʒ/_, as a daily reminder to myself. I want to be a “Sage” – someone who persistently learns and explores technology – and I also want to “Soar” – to rise higher by turning knowledge into meaningful software that touches people’s lives. For me, development is not just a job, but a journey of growing alongside knowledge and passion.
 
----
 
 ## 🚀 About Me
 
@@ -27,7 +26,6 @@ I chose the name SoJDev, derived from SoJ _/sɔːdʒ/_, as a daily reminder to m
 * 🤝 Open to **collaborating on impactful projects** and contributing to innovative teams.
 * 🌱 **Working towards becoming a versatile full-stack developer and future tech leader.**
 
----
 
 ## 🌱 What I'm Currently Learning/Working On
 
