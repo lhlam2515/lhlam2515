@@ -15,21 +15,25 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-I chose the name SoJDev, derived from SoJ _/sɔːdʒ/_, as a daily reminder to myself. I want to be a “Sage” – someone who persistently learns and explores technology – and I also want to “Soar” – to rise higher by turning knowledge into meaningful software that touches people’s lives. For me, development is not just a job, but a journey of growing alongside knowledge and passion.
+I go by SoJDev, a name rooted in my journey through Teyvat (Genshin Impact). To me, 'SoJ' represents more than just a game character; it embodies the persistence, curiosity, and passion I’ve carried from my adventures into the world of software development. I translate that same explorer’s mindset into building high-quality applications and solving complex technical puzzles. Ready to turn 'mission impossible' into 'mission accomplished' for my clients.
 
 
-## 🚀 About Me
+### 🚀 Professional Focus
 
-* 💻 Skilled in **full-stack development** (React, Next.js, MongoDB, and more).
-* 🤖 Passionate about building **AI-powered and intelligent applications**.
-* 🤝 Open to **collaborating on impactful projects** and contributing to innovative teams.
-* 🌱 **Working towards becoming a versatile full-stack developer and future tech leader.**
+* **Core Mastery**: Specialized in **Full-stack Web Development**, dedicated to building scalable and high-performance digital experiences.
+* **AI-Augmented Engineering**: Passionate about integrating **AI-coding assistants** and Generative AI tools to optimize workflow efficiency and code quality.
+* **Vision**: Bridging the gap between traditional software engineering and the next generation of intelligent, automated systems.
 
+### 🧪 Research & Innovation
 
-## 🌱 What I'm Currently Learning/Working On
+* **Multi-Agent Systems (MAS)**: Researching and designing architectures to **automate the software development lifecycle (SDLC)**.
+* **Intelligent Automation**: Building autonomous agents that streamline complex processes, making software workflows smoother and more resilient.
 
-* Actively studying **Generative AI and LLMs**, with a research-driven interest in **intelligent multi-agent architectures**.
-* Developing knowledge progressively to contribute to **future academic and applied research in multi-agent systems**.
+---
+
+<p align="center">
+  <i>"Ad Astra Abyssosque — Exploring the future of intelligent software."</i>
+</p>
 
 <!--
 ---
