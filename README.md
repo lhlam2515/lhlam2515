@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Hoang-Lam (SoJDev)
 
-I go by SoJDev, a name rooted in my journey through Teyvat (Genshin Impact). To me, 'SoJ' represents more than just a game character; it embodies the persistence, curiosity, and passion I’ve carried from my adventures into the world of software development. I translate that same explorer’s mindset into building high-quality applications and solving complex technical puzzles. Ready to turn 'mission impossible' into 'mission accomplished' for my clients.
-
+I go by **SoJDev**, a name inspired by my journey in *Genshin Impact*. To me, it symbolizes the persistence and curiosity of an adventurer—traits I now bring to software development. I translate this "explorer's mindset" into building high-quality applications and solving complex puzzles, turning every challenge into a successful quest.
 
 ### 🚀 Professional Focus
 
-* **Core Mastery**: Specialized in **Full-stack Web Development**, dedicated to building scalable and high-performance digital experiences.
-* **AI-Augmented Engineering**: Passionate about integrating **AI-coding assistants** and Generative AI tools to optimize workflow efficiency and code quality.
-* **Vision**: Bridging the gap between traditional software engineering and the next generation of intelligent, automated systems.
+* 🌐 **Core Mastery**: Building scalable Web Applications with **React, Next.js, and Node.js**.
+* 🤖 **AI-Augmented**: Leveraging **AI-coding assistants** to optimize workflow and code quality.
+* 📈 **Vision**: Evolving into a versatile Lead Developer with a focus on high-performance systems.
+* 🤝 **Collaboration**: Open to impactful projects and contributing to innovative engineering teams.
 
-### 🧪 Research & Innovation
+### 🧪 Research & Development
 
-* **Multi-Agent Systems (MAS)**: Researching and designing architectures to **automate the software development lifecycle (SDLC)**.
-* **Intelligent Automation**: Building autonomous agents that streamline complex processes, making software workflows smoother and more resilient.
+* 🧠 **Multi-Agent Systems**: Designing architectures to **automate the software development lifecycle (SDLC)**.
+* ⚡ **Intelligent Workflow**: Building autonomous agents to streamline complex engineering processes.
+* 📚 **Applied Research**: Progressively developing MAS solutions for academic and practical use cases.
 
 ---
 
